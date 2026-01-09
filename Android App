@@ -1,0 +1,10 @@
+ai-detector-backend/
+ ├── app/
+ │   ├── main.py
+ │   ├── model.py
+ │   ├── video.py
+ │   └── utils.py
+ ├── ai_detector.pth
+ ├── requirements.txt
+ ├── Dockerfile
+ └── README.md
