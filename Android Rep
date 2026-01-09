@@ -1,0 +1,10 @@
+ai-detector-android/
+ ├── app/
+ │   ├── ui/
+ │   │   ├── HomeScreen.kt
+ │   │   ├── ResultScreen.kt
+ │   │   └── LoadingScreen.kt
+ │   ├── network/
+ │   ├── viewmodel/
+ │   └── MainActivity.kt
+ └── build.gradle
